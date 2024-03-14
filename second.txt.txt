@@ -1,5 +1,3 @@
 welcome to frnzo
 
 second line
-
-stash line
